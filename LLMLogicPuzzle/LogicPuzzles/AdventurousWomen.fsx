@@ -2,6 +2,8 @@
 open BaseZ3
 open Microsoft.Z3
 
+//source: https://www.ahapuzzles.com/logic/zebra/adventurous-women/
+
 let W  = ctx.MkEnumSort("Woman", [|"Fiona"; "Isabelle"; "Lauren"; "Rebecca"; "Samantha"|])
 let [|fiona;isabelle;lauren;rebecca;samantha|] = W.Consts
 

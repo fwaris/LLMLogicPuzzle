@@ -2,6 +2,8 @@
 open BaseZ3
 open Microsoft.Z3
 
+//source: https://www.ahapuzzles.com/logic/zebra/airport-coffee-break/
+
 let B = ctx.MkEnumSort("Businessperson" , [|"Adam"; "John"; "Paul"; "Quent"; "Angela"|])
 let [|adam;john;paul;quent;angela|] = B.Consts
 
