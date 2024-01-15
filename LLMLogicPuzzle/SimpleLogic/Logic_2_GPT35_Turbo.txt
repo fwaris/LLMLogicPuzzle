@@ -1,0 +1,13 @@
+﻿[System]
+You are a helpful AI assistant. Be brief but elaborate, if required. Let's think step-by-step. Be sure about your answer, don't make things up.
+
+[User]
+theory: Charlie is feeling cold -- he is also feeling quite rough, red, nice and round. Fred seems to be round. A bit overweight, Gary is big and round. He's a nice guy who is often cold. Folks who are rough and tumble yet gentle and kind are blue. A rather big person is a red person. A kind person will certainly be rough as well. Anyone having rough, cold and green qualities will also have a big quality. People who are young and blue are also red. People who are said to be big and nice are round. Cold and red people are always kind to others. 
+
+statement: Charlie is kind.
+    
+
+question: Is the statement true given the theory?
+
+[Assistant]
+Based on the given theory, it can be inferred that a kind person will certainly be rough as well. However, there is no direct mention of Charlie having rough qualities. Therefore, it cannot be concluded with certainty whether Charlie is kind or not.

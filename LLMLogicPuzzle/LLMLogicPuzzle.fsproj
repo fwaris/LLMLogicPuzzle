@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="SimpleLogic\SourceInfo.txt" />
+    <Content Include="SimpleLogic\Logic_1_GPT4_Turbo.txt" />
+    <Content Include="SimpleLogic\Logic_1_GPT4.txt" />
+    <Content Include="SimpleLogic\Logic_1_GPT35_Turbo.txt" />
+    <Content Include="SimpleLogic\Logic_2_GPT4_Turbo.txt" />
+    <Content Include="SimpleLogic\Logic_2_GPT4.txt" />
+    <Content Include="SimpleLogic\Logic_2_GPT35_Turbo.txt" />
+    <None Include="LogicPuzzles\BaseZ3.fsx" />
+    <None Include="LogicPuzzles\WheelsAroundTown.fsx" />
+    <Content Include="LogicPuzzles\WheelsAround_LLMOut.txt" />
+    <None Include="LogicPuzzles\AdventurousWomen.fsx" />
+    <None Include="LogicPuzzles\AirportCoffeeBreak.fsx" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

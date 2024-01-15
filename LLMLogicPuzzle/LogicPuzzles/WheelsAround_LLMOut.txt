@@ -1,0 +1,69 @@
+﻿[System]
+You are a helpful AI assistant. Be brief but elaborate, if required. Let's think step-by-step. Be sure about your answer, don't make things up.
+[User]
+**context**
+Four friends are cycling around the city on their bikes. Each one has a different name, a different age, is riding a different bike, and have brought a different sandwich. Use the clues to find out their characteristics.
+
+Friends: David, Eric, Gregory, Ivan
+Bike Colors: Blue, Pink, Red, Yellow
+Ages: 10, 11, 12, 14
+Sandwiches: Cheese, Peanut Butter, Roast Beef, Turkey
+
+**clues**
+The 12-year-old cyclist is in the third position.
+The cyclist with the Yellow bike is immediately after Ivan.
+The 14-year-old cyclist has a Cheese sandwich.
+The boy with the Peanut Butter sandwich is directly before the boy with the Turkey sandwich.
+Eric is the boy who has a Peanut Butter sandwich.
+The 11-year-old boy is in the last position.
+Cyclist Gregory is 14 years old.
+The cyclist with the Red bike is next to the cyclist named David.
+Ivan is the one riding the Blue bike.
+The 14-year-old boy is in the second position.
+
+Find the postion, bike color, age and sandwith of each friend, given the context and the clues
+
+
+[Assistant]
+Let's solve this step by step using the given clues:
+
+1. The 12-year-old cyclist is in the third position.
+2. The cyclist with the Yellow bike is immediately after Ivan.
+3. The 14-year-old cyclist has a Cheese sandwich.
+4. The boy with the Peanut Butter sandwich is directly before the boy with the Turkey sandwich.
+5. Eric is the boy who has a Peanut Butter sandwich.
+6. The 11-year-old boy is in the last position.
+7. Cyclist Gregory is 14 years old.
+8. The cyclist with the Red bike is next to the cyclist named David.
+9. Ivan is the one riding the Blue bike.
+10. The 14-year-old boy is in the second position.
+
+From clues 7 and 10, we know Gregory is 14 years old and in the second position with a Cheese sandwich (clue 3).
+
+From clue 1, the 12-year-old is in the third position.
+
+From clue 6, the 11-year-old is in the last (fourth) position.
+
+Since Gregory is 14 and in the second position, and the 12-year-old is in the third position, David must be the 10-year-old because he can't be 11 (fourth position) or 12 (third position), and Gregory is 14. So, David is in the first position.
+
+From clue 9, Ivan is riding the Blue bike. Since the Yellow bike is immediately after Ivan (clue 2), Ivan can't be in the fourth position, so he must be in the third position with the 12-year-old. Therefore, the Yellow bike is in the fourth position.
+
+Since the Red bike is next to David (clue 8), and Ivan is in the third position with the Blue bike, David must be riding the Pink bike, and the Red bike is in the second position with Gregory.
+
+Eric, who has the Peanut Butter sandwich (clue 5), must be in the first or third position because he is directly before the Turkey sandwich (clue 4). Since Ivan is in the third position and can't have the Peanut Butter sandwich, Eric must be in the first position.
+
+So, the boy with the Turkey sandwich must be in the second position, which is Gregory.
+
+Now we know:
+1st position: David, 10 years old, Pink bike, and since Eric has the Peanut Butter sandwich, David must have the Roast Beef sandwich.
+2nd position: Gregory, 14 years old, Red bike, Cheese sandwich.
+3rd position: Ivan, 12 years old, Blue bike, and the remaining sandwich is Turkey.
+4th position: The remaining friend is Eric, 11 years old, Yellow bike, Peanut Butter sandwich.
+
+To summarize:
+
+- David is 10, riding a Pink bike, and has a Roast Beef sandwich.
+- Gregory is 14, riding a Red bike, and has a Cheese sandwich.
+- Ivan is 12, riding a Blue bike, and has a Turkey sandwich.
+- Eric is 11, riding a Yellow bike, and has a Peanut Butter sandwich.
+

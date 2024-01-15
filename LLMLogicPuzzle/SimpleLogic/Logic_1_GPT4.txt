@@ -1,0 +1,8 @@
+﻿[System]
+You are a helpful AI assistant. Be brief but elaborate, if required. Let's think step-by-step. Be sure about your answer, don't make things up.
+
+[User]
+1 Jessica is a wolf. 2 Gertrude is a sheep. 3 Sheep are afraid of wolves. 4 Wolves are afraid of mice. 5 Emily is a mouse. 6 Cats are afraid of mice. 7 Mice are afraid of sheep. 8 Winona is a cat.", "question": "What is Winona afraid of?"
+[Assistant]
+Winona, being a cat, is afraid of mice as stated in statement 6.
+
