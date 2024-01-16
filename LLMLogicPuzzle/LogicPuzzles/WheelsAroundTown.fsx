@@ -71,3 +71,26 @@ bpPositions
     printfn "    %A" bpBikes.[n]
     printfn "    %A" bpAges.[n]
     printfn "    %A" bpSandwiches.[n])
+
+(* output 
+> 
+Ivan
+    Blue
+    |10|
+    |Roast Beef|
+Gregory
+    Yellow
+    |14|
+    Cheese
+Eric
+    Red
+    |12|
+    |Peanut Butter|
+
+David
+    Pink
+    |11|
+    Turkey
+val it: unit = ()
+
+*)
