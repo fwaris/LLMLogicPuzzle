@@ -38,7 +38,7 @@ let clues : BoolExpr list =
         ties.[blue] <<! john //The man wearing a Blue tie is seated to the left of John.        
         gates.[g89] == john  //John's departure gate is 89.
         gates.[g25] <<>> cities.[london] //The person departing from Gate 25 is seated next to the person flying to the English-speaking city.
-        atEnd sports.[sailing] //The businessman whose favorite sport is Sailing is seated at one of the ends.
+        atEnd 4 sports.[sailing] //The businessman whose favorite sport is Sailing is seated at one of the ends.
         ties.[white] >>! ties.[green]  //The businessman wearing a White tie is directly after the businessman wearing a Green tie.
         ties.[blue] <<! ties.[yellow]
         between gates.[g89] (cities.[seoul],gates.[g34])  //The man departing from Gate 89 is situated between the man flying to Seoul and the man departing from Gate 34, in that order.
@@ -46,7 +46,7 @@ let clues : BoolExpr list =
         times.[t500] == john //John's flight also departs at 5:00 PM.
         gates.[g98] >>! times.[t400]  //The man departing from Gate 98 is directly after the man with the earliest flight.
         between sports.[snowboarding] (cities.[manila],sports.[judo]) //The person whose favorite sport involves a board is seated somewhere between the man flying to Manila and the person who enjoys a fighting sport, in that order.
-        atEnd paul //Paul is at one of the ends.
+        atEnd 4 paul //Paul is at one of the ends.
         cities.[manila] <<>> ties.[blue] //The businessman flying to Manila is next to the man wearing the Blue tie.
         gates.[g89] == ties.[yellow] //The man who wears a Yellow tie is also departing from Gate 89.
         times.[t700] == cities.[amsterdam] //The man flying to the capital of the Netherlands has the latest flight.
@@ -54,7 +54,7 @@ let clues : BoolExpr list =
         cities.[london] == times.[t500] //The man flying to London is also scheduled to depart at 5:00 PM.
         cities.[seoul] <<! cities.[manila] //The man flying to Seoul is directly before the man flying to Manila.
         cities.[manila] == times.[t430] //The flight to Manila departs at 4:30 PM.
-        atEnd cities.[amsterdam] //The person traveling to the capital of the Netherlands is seated at one of the ends.
+        atEnd 4 cities.[amsterdam] //The person traveling to the capital of the Netherlands is seated at one of the ends.
     ]
 
 let allDistinct : BoolExpr list = 
