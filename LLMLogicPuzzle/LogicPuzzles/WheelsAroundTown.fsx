@@ -62,7 +62,7 @@ let bpBikes = B.Consts |> Seq.map(fun ti -> solver.Model.Eval(bikes.[ti]).ToStri
 let bpAges = A.Consts |> Seq.map(fun ti -> solver.Model.Eval(ages.[ti]).ToString(),ti) |> Map.ofSeq
 let bpSandwiches = Sw.Consts |> Seq.map(fun ti -> solver.Model.Eval(sandwiches.[ti]).ToString(),ti) |> Map.ofSeq
 let bpPositions = F.Consts |> Seq.map(fun ti -> solver.Model.Eval(positions.[ti]).ToString(),ti) |> Map.ofSeq
-
+;;
 bpPositions 
 |> Map.toSeq 
 |> Seq.iter(fun (v,k) -> 
