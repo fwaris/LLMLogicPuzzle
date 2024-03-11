@@ -1,0 +1,61 @@
+; Declare the constants
+(declare-const David Int)
+(declare-const Eric Int)
+(declare-const Gregory Int)
+(declare-const Ivan Int)
+
+(declare-const Blue Int)
+(declare-const Pink Int)
+(declare-const Red Int)
+(declare-const Yellow Int)
+
+(declare-const Age10 Int)
+(declare-const Age11 Int)
+(declare-const Age12 Int)
+(declare-const Age14 Int)
+
+(declare-const Cheese Int)
+(declare-const PeanutButter Int)
+(declare-const RoastBeef Int)
+(declare-const Turkey Int)
+
+; Declare the constraints
+(assert (distinct David Eric Gregory Ivan))
+(assert (distinct Blue Pink Red Yellow))
+(assert (distinct Age10 Age11 Age12 Age14))
+(assert (distinct Cheese PeanutButter RoastBeef Turkey))
+
+(assert (and (>= David 1) (<= David 4)))
+(assert (and (>= Eric 1) (<= Eric 4)))
+(assert (and (>= Gregory 1) (<= Gregory 4)))
+(assert (and (>= Ivan 1) (<= Ivan 4)))
+
+(assert (and (>= Blue 1) (<= Blue 4)))
+(assert (and (>= Pink 1) (<= Pink 4)))
+(assert (and (>= Red 1) (<= Red 4)))
+(assert (and (>= Yellow 1) (<= Yellow 4)))
+
+(assert (and (>= Age10 1) (<= Age10 4)))
+(assert (and (>= Age11 1) (<= Age11 4)))
+(assert (and (>= Age12 1) (<= Age12 4)))
+(assert (and (>= Age14 1) (<= Age14 4)))
+
+(assert (and (>= Cheese 1) (<= Cheese 4)))
+(assert (and (>= PeanutButter 1) (<= PeanutButter 4)))
+(assert (and (>= RoastBeef 1) (<= RoastBeef 4)))
+(assert (and (>= Turkey 1) (<= Turkey 4)))
+
+; Clues
+(assert (= Age12 3))
+(assert (= Yellow (+ Ivan 1)))
+(assert (= Age14 Cheese))
+(assert (= (- PeanutButter Turkey) 1))
+(assert (= Eric PeanutButter))
+(assert (= Age11 4))
+(assert (= Gregory Age14))
+(assert (or (= Red (+ David 1)) (= Red (- David 1))))
+(assert (= Ivan Blue))
+(assert (= Age14 2))
+
+(check-sat)
+(get-model)
