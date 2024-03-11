@@ -47,5 +47,6 @@ let mutable settings = ServiceSettings.Default
 let installSettings (path: string) =
     let path = System.Environment.ExpandEnvironmentVariables path
     let str = System.IO.File.ReadAllText path
-    System.Text.Json.JsonSerializer.Deserialize<ServiceSettings>(str)
+    let sttngs = System.Text.Json.JsonSerializer.Deserialize<ServiceSettings>(str)
+    settings <- sttngs
 

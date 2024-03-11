@@ -11,6 +11,9 @@
 #r "nuget: Plotly.NET"
 #r "nuget: Azure.Identity"
 #r "nuget: azure.security.keyvault.secrets"
+#r "nuget: Microsoft.Extensions.Hosting"
+#r "nuget: Microsoft.Extensions.Logging"
+#r "nuget: Microsoft.Z3"
 
 #load "../Settings.fs"
 #load "../GenUtils.fs"

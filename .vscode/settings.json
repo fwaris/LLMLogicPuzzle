@@ -8,5 +8,8 @@
     "FSharp.inlayHints.enabled": false,
     "FSharp.inlineValues.enabled": false,
     "FSharp.enableAdaptiveLspServer": true,
-    "FSharp.fsac.gc.conserveMemory": 1
+    "FSharp.fsac.gc.conserveMemory": 1,
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }

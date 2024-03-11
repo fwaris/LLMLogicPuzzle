@@ -75,19 +75,19 @@ let loggerFactory =
             member this.Dispose() = ()
     }
 
-let promptSettings (parms:ServiceSettings) maxTokens temperature=
+let promptSettings maxTokens temperature =
     new OpenAIPromptExecutionSettings(
-        MaxTokens = maxTokens, 
+        MaxTokens = Nullable maxTokens, 
         Temperature = temperature) 
 
-let baseKernel settings chatModel (ch:ChatHistory) = 
+let baseKernel settings chatModel = 
     let builder = Kernel.CreateBuilder()    
     builder.Services.AddLogging(fun c -> c.AddConsole().SetMinimumLevel(LogLevel.Information) |>ignore) |> ignore
     let rg,uri,key = getAzureEndpoint settings.AZURE_OPENAI_ENDPOINTS
     builder.AddAzureOpenAIChatCompletion(deploymentName = chatModel,endpoint = uri, apiKey = key)
 
-let kernelArgsFrom parms maxTokens temperature (args:(string*string) seq) =
-    let sttngs = promptSettings parms maxTokens temperature
+let kernelArgsFrom maxTokens temperature (args:(string*string) seq) =
+    let sttngs = promptSettings maxTokens temperature
     let kargs = KernelArguments(sttngs)
     for (k,v) in args do
         kargs.Add(k,v)
@@ -118,6 +118,8 @@ let renderPrompt (prompt:string) (args:KernelArguments) =
         return rslt
     }
 
+let build (k:IKernelBuilder) = k.Build()
+
 let searchResults parms ch maxDocs query (cogMems:ISemanticTextMemory seq) =
     cogMems
     |> AsyncSeq.ofSeq
@@ -126,4 +128,39 @@ let searchResults parms ch maxDocs query (cogMems:ISemanticTextMemory seq) =
     |> AsyncSeq.toBlockingSeq
     |> Seq.toList
 
+let buildHistory (sysMsg:string) (msgs:string seq) = 
+    let ch = ChatHistory(sysMsg)
+    msgs 
+    |> Seq.indexed
+    |> Seq.iter (fun (i,m) -> 
+        let role = if i%2=0 then AuthorRole.User else AuthorRole.Assistant
+        ch.Add(ChatMessageContent(role, m)))
+    ch
 
+let extractTripleQuoted (inp:string) =
+    let lines =
+        seq {
+            use sr = new System.IO.StringReader(inp)
+            let mutable line = sr.ReadLine()
+            while line <> null do
+                yield line
+                line <- sr.ReadLine()
+        }
+        |> Seq.map(fun x -> x.Trim())
+        |> Seq.toList
+    let addSnip acc accSnip = 
+        match accSnip with 
+        |[] -> acc 
+        | _ -> (List.rev accSnip)::acc
+    let isQuote (s:string) = s.StartsWith("```")
+    let rec start acc (xs:string list) = 
+        match xs with 
+        | []                   -> List.rev acc
+        | x::xs when isQuote x -> accQuoted acc [] xs
+        | x::xs                -> start acc xs
+    and accQuoted acc accSnip xs = 
+        match xs with
+        | []                   -> List.rev (addSnip acc accSnip)
+        | x::xs when isQuote x -> start (addSnip acc accSnip) xs
+        | x::xs                -> accQuoted acc (x::accSnip) xs
+    start [] lines
