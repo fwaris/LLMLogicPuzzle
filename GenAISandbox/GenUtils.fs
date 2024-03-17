@@ -164,3 +164,14 @@ let extractTripleQuoted (inp:string) =
         | x::xs when isQuote x -> start (addSnip acc accSnip) xs
         | x::xs                -> accQuoted acc (x::accSnip) xs
     start [] lines
+
+
+let defaultSysMsg = "You are a helpful AI assistant. Be brief but elaborate, if required. Let's think step-by-step. Be sure about your answer, don't make things up."
+
+let run prompt =    
+    let k = baseKernel Settings.settings "gpt-4" |> build
+    let srv = k.GetRequiredService<IChatCompletionService>()   
+    let prmptStngs = promptSettings 2000 0.0
+    let ch = buildHistory defaultSysMsg [prompt] 
+    srv.GetChatMessageContentAsync(ch,prmptStngs).Result
+    

@@ -1,0 +1,16 @@
+  ["aep_aepcampaigndata"; "clickstream_dailysilverhitdata";
+   "clickstream_lookup_browser"; "clickstream_lookup_browser_type";
+   "clickstream_lookup_color_depth"; "clickstream_lookup_connection_type";
+   "clickstream_lookup_country"; "clickstream_lookup_event";
+   "clickstream_lookup_javascript_version"; "clickstream_lookup_languages";
+   "clickstream_lookup_plugins"; "clickstream_lookup_referrer_type";
+   "clickstream_lookup_resolution"; "clickstream_lookup_search_engines";
+   "clickstream_silverhitdata"; "cupid_callvoiceactivity"; "cupid_channel";
+   "cupid_channelactivity"; "cupid_channelactivitygrain";
+   "cupid_factchannelcontainment"; "cupid_factcupidtransactions";
+   "cupid_factdigitalspillover"; "cupid_factdigitaltocarefailurescallids";
+   "cupid_factmytmoactivity"; "cupid_ivractivity"; "cupid_journeymetadata";
+   "cupid_messagingactivity"; "cupid_reasonaccountstate";
+   "cupid_retailactivity"; "cupid_tmoappauthenticatedactivity";
+   "cupid_tmoidiam"; "cupid_transactionreasoninfo"; "cupid_webusereason";
+   "factcupidjourneys"; "factcupidjourneysteps"]

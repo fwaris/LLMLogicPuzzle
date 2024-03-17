@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+	</PropertyGroup>
+	<ItemGroup>
+		<Content Include="SimpleLogic\SourceInfo.txt" />
+		<Content Include="SimpleLogic\Logic_1_GPT4_Turbo.txt" />
+		<Content Include="SimpleLogic\Logic_1_GPT4.txt" />
+		<Content Include="SimpleLogic\Logic_1_GPT35_Turbo.txt" />
+		<Content Include="SimpleLogic\Logic_2_GPT35_Turbo.txt" />
+		<Content Include="SimpleLogic\Logic_2_GPT4.txt" />
+		<Content Include="SimpleLogic\Logic_2_GPT4_Turbo.txt" />
+		<None Include="LogicPuzzles\BaseZ3.fsx" />
+		<None Include="LogicPuzzles\WheelsAroundTown.fsx" />
+		<Content Include="LogicPuzzles\WheelsAround_LLMOut.txt" />
+		<None Include="LogicPuzzles\AdventurousWomen.fsx" />
+		<None Include="LogicPuzzles\AirportCoffeeBreak.fsx" />
+		<None Include="scripts\packages.fsx" />
+		<None Include="scripts\LLMSandbox.fsx" />
+		<Compile Include="Settings.fs" />
+		<Compile Include="SemanticVectorSearch.fs" />
+		<Compile Include="HiveUtils.fs" />
+		<Compile Include="GenUtils.fs" />
+		<Compile Include="Program.fs" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Azure.Identity" Version="1.10.4" />
+		<PackageReference Include="azure.Search.Documents" Version="11.5.1" />
+		<PackageReference Include="azure.security.keyvault.secrets" Version="4.6.0" />
+		<PackageReference Include="FsExcel" Version="0.0.49" />
+		<PackageReference Include="FSharp.Control.AsyncSeq" Version="3.2.1" />
+		<PackageReference Include="Microsoft.Data.Analysis" Version="0.21.1" />
+		<PackageReference Include="Microsoft.DeepDev.TokenizerLib" Version="1.3.3" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+		<PackageReference Include="Microsoft.SemanticKernel" Version="1.6.2" />
+		<PackageReference Include="System.Data.Odbc" Version="9.0.0-preview.2.24128.5" />
+		<PackageReference Include="System.Net.Http" Version="4.3.4" />
+		<PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Update="FSharp.Core" Version="8.0.200" />
+	</ItemGroup>
+</Project>

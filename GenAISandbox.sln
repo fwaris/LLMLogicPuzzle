@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LLMLogicPuzzle", "LLMLogicPuzzle\LLMLogicPuzzle.fsproj", "{16B63087-C37C-43BF-949B-FBC3F2553891}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GenAISandbox", "GenAISandbox\GenAISandbox.fsproj", "{16B63087-C37C-43BF-949B-FBC3F2553891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,873 @@
+39: Information [45]                                                                                                                  
+  Data - Avanced |  | A_DATA_GPRS                                                                                                     
+  Data - Avanced |  | A_DATA_EMAIL                                                                                                    
+  Data - Avanced |  | A_DATA_GAMES                                                                                                    
+  Data - Avanced |  | A_DATA_BB                                                                                                       
+  Data - Avanced |  | Data Troubleshooting                                                                                            
+  Data - Avanced |  | A_DATA_AOL                                                                                                      
+  Data - Avanced |  | A_DATA_NET                                                                                                      
+  Data - Avanced |  | A_DATA_KICK                                                                                                     
+  Data - Avanced |  | A_DATA_LAPTOP                                                                                                   
+  Store Locator |  | Store/Store Locator                                                                                              
+  Store Locator |  | Store / Store Locator                                                                                            
+  Store Locator |  | STORE_LOC                                                                                                        
+  Store Locator |  | Store / Store Locator                                                                                            
+  Store Locator |  | Store / Store Locator                                                                                            
+  informational_views |  | Informational Views                                                                                        
+  informational_views |  | Informational Views                                                                                        
+  informational_views |  | informational_views                                                                                        
+  informational_views |  | Informational Views                                                                                        
+  informational_views |  | Informational Views                                                                                        
+  Search |  | search                                                                                                                  
+  Search |  | search                                                                                                                  
+  Search |  | search                                                                                                                  
+  Search |  | search                                                                                                                  
+  Benefits |  | Benefits                                                                                                              
+  Benefits |  | Benefits                                                                                                              
+  Benefits |  | Benefits                                                                                                              
+  Foresee/Survey |  | Foresee / Survey                                                                                                
+  Foresee/Survey |  | Foresee/Survey                                                                                                  
+  Privacy/Data Collection/Diagnostics |  | Privacy/Data Collection/Diagnostics                                                        
+  Privacy/Data Collection/Diagnostics |  | Privacy / Data Collection / Diagnostics                                                    
+  News & Blogs |  | News & Blogs                                                                                                      
+  News & Blogs |  | News / T-Mobile Corp                                                                                              
+  ISIS Wallet / Softcard  |  | ISIS_WALLET                                                                                            
+  Layer3 Branding |  | CCSA - Layer3 - Layer3 Branding                                                                                
+  Seek - Store Locator |  | CR - L3 - Retail Location Mention                                                                         
+  Short Codes |  | Account Events / Activity / Alerts                                                                                 
+  Explore T-Mobile |  | Explore T-Mobile                                                                                              
+  Short Codes |  | Short Codes                                                                                                        
+  Data Breach |  | Data Breach                                                                                                        
+  Company Info |  | Company Info                                                                                                      
+  TFB |  | TFB                                                                                                                        
+  Area Codes |  | Area Codes                                                                                                          
+  Social |  | Social                                                                                                                  
+  Customer Security |  | Customer Security                                                                                            
+  Referrals |  | Referrals                                                                                                            
+25: Device / Equipment [41]                                                                                                           
+  Device - Current - View |  | device_current_view                                                                                    
+  Device - Current - View |  | Device View / Status                                                                                   
+  Device - Current - View |  | device_view_current                                                                                    
+  Device - Current - View |  | My Phone and Status                                                                                    
+  Device - Current - View |  | Device View / Status                                                                                   
+  Device - Current - View |  | Device View / Status                                                                                   
+  SIM Change |  | SIM_CHANGE                                                                                                          
+  SIM Change |  | device_change SIM                                                                                                   
+  SIM Change |  | SIM Card Change                                                                                                     
+  SIM Change |  | SIM Card Change                                                                                                     
+  SIM Change |  | SIM Card Change                                                                                                     
+  Device /Equip |  | HANDSET_GEN                                                                                                      
+  Device /Equip |  | Devices                                                                                                          
+  Device /Equip |  | HANDSET_FEAT                                                                                                     
+  Device /Equip |  | CR - L3 - Keyboard/Button Mentions                                                                               
+  Device /Equip |  | DEV_GEN_B4NDNT                                                                                                   
+  TV |  | T-Vision                                                                                                                    
+  TV |  | TV                                                                                                                          
+  TV |  | T-Vision                                                                                                                    
+  TV |  | T-Vision                                                                                                                    
+  Messaging & Email |  | Messaging & Email                                                                                            
+  Messaging & Email |  | Messaging / Chat                                                                                             
+  SIM |  | SIM                                                                                                                        
+  SIM |  | CR - L3 - SIM Card Mentions                                                                                                
+  Tech Specs/User Manuals/Getting Started |  | Tech Specs/User Manuals/Getting Started                                                
+  Tech Specs/User Manuals/Getting Started |  | Tech Specs / User Manuals / Getting Started                                            
+  IMEI Number |  | IMEI                                                                                                               
+  IMEI Number |  | CR - L3 - IMEI Mentions                                                                                            
+  Software/Update |  | Software Update                                                                                                
+  Software/Update |  | Updates & Software                                                                                             
+  Support - Device Usage |  | CR - L3 - Navigation/Settings/Menu Mention                                                              
+  Calling & Contacts |  | Calling & Contacts                                                                                          
+  Tech Appt |  | TMO_HOME_TECH                                                                                                        
+  SIM - PUK |  | PUK_CODE                                                                                                             
+  Support - Equipment |  | Other Not Listed Equipment                                                                                 
+   | SIM New/Change/Update |                                                                                                          
+  SIM Error  |  | CR - L3 - SIM Error Mentions                                                                                        
+  How to use Device |  | How to use Device                                                                                            
+  Support - Audio |  | CR - L3 - Audio Issue mentions                                                                                 
+  Support - Charging Port |  | CR - L3 - Charging Port Mentions                                                                       
+  Screen |  | CR - L3 - Screen/Display Issues Mentions                                                                                
+13: Billing [40]                                                                                                                      
+  Bill Review |  | Billing Review - One Time Charges                                                                                  
+  Bill Review |  | Billing Review                                                                                                     
+  Bill Review |  | Billing Review - Payment Options                                                                                   
+  Bill Review |  | ACCT_BAL                                                                                                           
+  Bill Review |  | BILL_VAGUE                                                                                                         
+  Bill Review |  | Billing Review - Features                                                                                          
+  Bill Review |  | BILL_END_DATE                                                                                                      
+  Bill Review |  | Billing Review - Summary                                                                                           
+  Bill Review |  | Billing Review - Error                                                                                             
+  Bill Review |  | Billing Review - Rate Plan                                                                                         
+  Bill Review |  | Bill Inquiry                                                                                                       
+  Bill Review |  | CR - L3 - Bill Explanation Mentions                                                                                
+  Bill Review |  | Review Bill                                                                                                        
+  Bill Review |  | Billing Review - Equipment                                                                                         
+  Bill Review |  | Billing Review - Previous Charges                                                                                  
+  Bill Review |  | Billing Review                                                                                                     
+  Bill Review |  | Billing Review - Line Charges                                                                                      
+  Billing |  | BILL_WEB                                                                                                               
+  Billing |  | WM_HOTLINE_NO_PMT                                                                                                      
+  Billing |  | Other Not Listed Billing                                                                                               
+  Billing |  | HOTLINE_NO_PMT                                                                                                         
+  Bill Issue / Change / Dispute |  | WM_BILLING_ISSUE                                                                                 
+  Bill Issue / Change / Dispute |  | Bill Dispute                                                                                     
+  Bill Issue / Change / Dispute |  | BILL_ISSUE                                                                                       
+  Bill Copy |  | CR - L3 - Bill Reprint/Request Mentions                                                                              
+  Bill Copy |  | COPY_BILL                                                                                                            
+  Credits and Adjustments |  | CR - L3 - Credits and Adjustments Mentions                                                             
+  Credits and Adjustments |  | Credits and Adjustments                                                                                
+  Billing/Credits/Refunds |  | Billing / Credits / Refunds                                                                            
+  Billing/Credits/Refunds |  | Billing/Credits/Refunds                                                                                
+   | Bill Format |                                                                                                                    
+  Charges |  | CR - L3 - Charge Mentions                                                                                              
+  Due Date |  | CR - L3 - Due Date Mentions                                                                                           
+  Bill - Paperless |  | BILL_FORMAT                                                                                                   
+  Payment Refund |  | CR - L3 - Payment Refund                                                                                        
+  Account Balance |  | CR - L3 - Account Balance Mentions                                                                             
+  Bill Cycle |  | CR - L3 - Bill Cycle Mentions                                                                                       
+  Bill - Mobile Broadband |  | BROADBAND_BILL                                                                                         
+  Billing - Taxes |  | CR - L3 - Taxes Mentions                                                                                       
+  Digital Bill Review |  | billing_review                                                                                             
+66: Services / Features [37]                                                                                                          
+  Services / Features Info/Support |  | Services & Addons                                                                             
+  Services / Features Info/Support |  | CR - L3 - Feature Mentions                                                                    
+  Services / Features Info/Support |  | Services & Addons                                                                             
+  Services / Features Info/Support |  | GEN_FEATURE                                                                                   
+  Services / Features Info/Support |  | Services & Features                                                                           
+  Services / Features Info/Support |  | WM_FEATURES                                                                                   
+  Services / Features Info/Support |  | Manage Data and Add-Ons                                                                       
+  Services / Features Info/Support |  | Services & Addons                                                                             
+  Services or Rate Plan Change |  | Manage Services / Addons                                                                          
+  Services or Rate Plan Change |  | Services Change                                                                                   
+  Services or Rate Plan Change |  | Rate Plan & Services Change                                                                       
+  Services or Rate Plan Change |  | cps_conf                                                                                          
+  Services or Rate Plan Change |  | manage_other_services                                                                             
+  Services or Rate Plan Change |  | Manage Services / Addons                                                                          
+  Services & Addons Confirmation |  | Services & Addons Confirmation                                                                  
+  Services & Addons Confirmation |  | Addons Confirmation                                                                             
+  Services & Addons Confirmation |  | Manage Services / Addons Confirmation                                                           
+  Services & Addons Confirmation |  | Services Confirmation                                                                           
+  Voicemail/Visual VM |  | VMAIL_FEATURE                                                                                              
+  Voicemail/Visual VM |  | Voicemail                                                                                                  
+  Voicemail/Visual VM |  | VISUAL_VM                                                                                                  
+  Family Allowances |  | Family Allowances                                                                                            
+  Family Allowances |  | family_allowances                                                                                            
+  SMS - Info/Support |  | SMS_TUTORIAL                                                                                                
+  SMS - Info/Support |  | NETWORK_SMS                                                                                                 
+  SMS - Support |  | CR - L3 - Cannot Send/Receive SMS/MMS - Low Reliability                                                          
+  SMS - Support |  | Support Messages                                                                                                 
+  Binge On |  | BINGE_ON                                                                                                              
+  Data Stash |  | DATA_STASH                                                                                                          
+  MyFaves |  | MYFAVES                                                                                                                
+  Caller Tunes |  | CALLER_TUNES                                                                                                      
+  Call Blocking |  | CR - L3 - Call Blocking Mention                                                                                  
+  Content Blocking |  | CR - L3 - Content Blocking Mention                                                                            
+  Caller ID |  | CR - L3 - Caller ID Mentions                                                                                         
+  Lookout Mobile Security Premium |  | Lookout_Mobile_Security_Premium                                                                
+  Family Mode |  | Family_mode                                                                                                        
+  Scam Likely |  | CR - L3 - Scam Likely/Spam Text Mentions                                                                           
+60: Purchase Device / Equipment [36]                                                                                                  
+  Order Status |  | TEL_ORDER                                                                                                         
+  Order Status |  | TEL_M_ORDER                                                                                                       
+  Order Status |  | CR - L3 - Order Status/Track                                                                                      
+  Order Status |  | Order Activity including Status                                                                                   
+  Order Status |  | Order Activity including Status                                                                                   
+  Order Status |  | Order Status/Issue                                                                                                
+  Order Status |  | Order Activity including Status                                                                                   
+  Order Status |  | device_checkorder                                                                                                 
+  Order Status |  | HANDSET_STATUS                                                                                                    
+  Order Status |  | Order Activity including Status                                                                                   
+   | Trade In Device Recvd |                                                                                                          
+   | Trade In Accepted |                                                                                                              
+   | Upgrade-Demand |                                                                                                                 
+   | Trade In Rejected |                                                                                                              
+   | Trade In Cancelled |                                                                                                             
+   | Trade In Offered |                                                                                                               
+   | Trade In-RMA Period Starts |                                                                                                     
+   | Trade In Device Credit Applied |                                                                                                 
+   | Deposit |                                                                                                                        
+   | Trade In Ship Label Created |                                                                                                    
+  Upgrade - Device Activity |  | Order Confirmation                                                                                   
+  Upgrade - Device Activity |  | Order Confirmation                                                                                   
+  Upgrade - Device Activity |  | Order Confirmation                                                                                   
+  Upgrade - Device Activity |  | HSORDER_DEVICE                                                                                       
+  Upgrade - Device Activity |  | upgrade device                                                                                       
+  Upgrade - JUMP - Confirm |  | JUMP Confirmation                                                                                     
+  Upgrade - JUMP - Confirm |  | JUMP Confirmation                                                                                     
+  Upgrade - JUMP - Confirm |  | jump_conf                                                                                             
+  Upgrade - JUMP - Confirm |  | JUMP Confirmation                                                                                     
+  Upgrade - CIHU - Confirm |  | CIHU Confirmation                                                                                     
+  Upgrade - CIHU - Confirm |  | CIHU Confirmation                                                                                     
+  Upgrade - CIHU - Confirm |  | cihu_conf                                                                                             
+  Upgrade - Tradein - Confirm |  | tradein_conf                                                                                       
+  Upgrade - Tradein - Confirm |  | Trade in Confirmation                                                                              
+  Upgrade - Tradein - Confirm |  | Trade In Conf                                                                                      
+  Appt - Tech Install / Setup |  | TMO_HOME_INST                                                                                      
+1: Unknown [34]                                                                                                                       
+  Unknown |  | L_SPEAK_FREELY                                                                                                         
+  Unknown |  | Uncategorized Short Call                                                                                               
+  Unknown |  | Unknown / Test Accounts / Other                                                                                        
+  Unknown |  | Memo Call Was Disconnected                                                                                             
+  Unknown |  | SBB_PURCHASE                                                                                                           
+  Unknown |  | BAN no Samson                                                                                                          
+  Unknown |  | SPEAK_FREELY                                                                                                           
+  Unknown |  | Uncategorized                                                                                                          
+  Unknown |  | No Row Received from NICE                                                                                              
+  Unknown |  | ANY_MOBILE                                                                                                             
+  Unknown |  | CR - L3 - Dead Air Calls                                                                                               
+  Unknown |  | Samson no BAN                                                                                                          
+  Unknown |  | CAMEO_GEN                                                                                                              
+  Unknown |  | GEN_CARE                                                                                                               
+  Unknown |  | Unknown / Test Accounts / Other                                                                                        
+  Unknown |  | Uncategorized Spanish                                                                                                  
+  Unknown |  | not_applicable                                                                                                         
+  Unknown |  | MAGENTA_MAIN                                                                                                           
+  Unknown |  | Uncategorized No Rep Memos                                                                                             
+  Unknown |  | ENTER_MOBILE                                                                                                           
+  Unknown |  | Unrecoverable                                                                                                          
+  Unknown |  | Unknown                                                                                                                
+  Unknown |  | Uncategorized UNKNOWN                                                                                                  
+  Unknown |  | Memo VRFY CFPM QVCT NVBV Only                                                                                          
+  Unknown |  | BM_XFER_CARE                                                                                                           
+  Unknown |  | MyTMO App Native Page                                                                                                  
+  Unknown |  | System - No Useable Data                                                                                               
+  Unknown - Business Acct |  | TEL_BUS                                                                                                
+  Unknown - Business Acct |  | BUS_ENDUSER                                                                                            
+  Unknown - Business Acct |  | BUSINESS_CARE                                                                                          
+  Unknown - RSL IVR |  | DLR_DEFAULT                                                                                                  
+  Resource Planning |  | CR - L3 - Resource Planning                                                                                  
+  ID Verification |  | ID Verification                                                                                                
+  Verification - TVision |  | CCSA - Layer3 - Verification                                                                            
+22: Device - Shop / Prereg [32]                                                                                                       
+  Shop Device - Tradein - Info/Support |  | Trade in                                                                                  
+  Shop Device - Tradein - Info/Support |  | Trade in                                                                                  
+  Shop Device - Tradein - Info/Support |  | tradein                                                                                   
+  Shop Device - Tradein - Info/Support |  | Trade in                                                                                  
+  Shop Device - Tradein - Info/Support |  | Trade_in                                                                                  
+  Shop Device - Tradein - Info/Support |  | Trade in                                                                                  
+  Shop Device - Tradein - Info/Support |  | CR - L3 - Trade In Mentions                                                               
+  Shop Device |  | shop                                                                                                               
+  Shop Device |  | shop                                                                                                               
+  Shop Device |  | Upgrade Your Device                                                                                                
+  Shop Device |  | shop                                                                                                               
+  Shop Device |  | Pre-owned Devices                                                                                                  
+  Shop Device |  | shop                                                                                                               
+  Upgrade - JUMP |  | JUMP                                                                                                            
+  Upgrade - JUMP |  | JUMP                                                                                                            
+  Upgrade - JUMP |  | JUMP_UPGRADE                                                                                                    
+  Upgrade - JUMP |  | JUMP                                                                                                            
+  CIHU - View |  | cihu                                                                                                               
+  CIHU - View |  | cihu                                                                                                               
+  CIHU - View |  | cihu                                                                                                               
+  Cart / Checkout |  | Checkout                                                                                                       
+  Cart / Checkout |  | Cart                                                                                                           
+  Preregistration |  | pre_registration                                                                                               
+  Preregistration |  | Pre-Registration                                                                                               
+  Samsung |  | Samsung                                                                                                                
+  Total Price Estimate |  | Total_Price_Estimate_NextGen                                                                              
+  Full Retail Price |  | FRP_Full_Retail_Price_                                                                                       
+  Shop New Phone |  | New                                                                                                             
+  Apple |  | Apple                                                                                                                    
+  Web to Retail |  | Web to Retail                                                                                                    
+  Upgrade Discussion |  | CR - L3 - Upgrade Discussion Mentions                                                                       
+  Pre-Order |  | CR - L3 - Pre-Order                                                                                                  
+41: Manage Acct / Phone Nbr [31]                                                                                                      
+   | Changed Subscriber |                                                                                                             
+   | Change Acct / Line Type |                                                                                                        
+   | Profile Change |                                                                                                                 
+   | New MSISDN |                                                                                                                     
+   | Address Change Various |                                                                                                         
+   | Changed MSISDN |                                                                                                                 
+   | MSISDN Left BAN& Subscr  |                                                                                                       
+   | MSISDN Left |                                                                                                                    
+  Manage account |  | Other Not Listed Account                                                                                        
+  Manage account |  | ACCOUNT_EVENTS                                                                                                  
+  Manage account |  | WM_ACCOUNT_CHANGE                                                                                               
+  Manage account |  | Account Maintenance                                                                                             
+  Manage account |  | Account                                                                                                         
+  MSISDN Change |  | MISDN_CHG                                                                                                        
+  MSISDN Change |  | CHANGE_MSISDN                                                                                                    
+  Profile Change |  | profile_changes                                                                                                 
+  Profile Change |  | Profile Changes                                                                                                 
+  Account Profile / Overview |  | Account Profile / Overview                                                                          
+  Account Profile / Overview |  | Account Profile / Overview                                                                          
+  Customer Address |  | ADDRESS_CHG                                                                                                   
+  Customer Address |  | CR - L3 - Address Mentions                                                                                    
+  Account Events / Activity / Alerts |  | Taxes & Fees / Privacy / Terms & Conditions                                                 
+  Account Events / Activity / Alerts |  | Taxes & Fees / Privacy / Terms & Conditions                                                 
+  Change Language |  | CHANGE_LANG_PREF                                                                                               
+  Account Info |  | CR - L3 - Account Number (BAN) Mentions                                                                           
+  Name Change |  | CR - L3 - Name Change Mention                                                                                      
+  Cancel MSISDN or Account Info/Support |  | Cancel an Account or MSISDN                                                              
+  Account Info/Support |  | Device OR Account Activation                                                                              
+  MSISDN/Subscr Change |  | CR - L3 - Mobile Number Change Mentions                                                                   
+  Account History |  | Account History                                                                                                
+  Contract End Date Inquiry |  | CONTRACT_ED                                                                                          
+44: Other Devices / IoT [27]                                                                                                          
+  Sync-up |  | IoT - SyncUp                                                                                                           
+  Sync-up |  | CR - L3 - Sync-Up                                                                                                      
+  Sync-up |  | SYNCUP_PETS                                                                                                            
+  Sync-up |  | SYNCUP_FLEET                                                                                                           
+  Sync-up |  | SYNCUP_DRIVE                                                                                                           
+  Sync-up |  | SYNCUP                                                                                                                 
+  Sync-up |  | Sync-up                                                                                                                
+  Home and Entertainment |  | HNE_LEAD                                                                                                
+  Home and Entertainment |  | HNE_INTERNET                                                                                            
+  Home and Entertainment |  | TEL_HNE_NEW                                                                                             
+  Home and Entertainment |  | Home Internet Inquiry                                                                                   
+  Home and Entertainment |  | HNE_GENERAL                                                                                             
+  Mobile Broadband / Internet |  | BROADBAND_OVER                                                                                     
+  Mobile Broadband / Internet |  | Mobile Broadband                                                                                   
+  Mobile Broadband / Internet |  | Mobile_Internet                                                                                    
+  IoT |  | IoT                                                                                                                        
+  IoT |  | IoT                                                                                                                        
+  Netbook |  | NETBOOK_SERV                                                                                                           
+  Netbook |  | NETBOOK_SAMSUNG                                                                                                        
+  Tablet |  | CR - L3 - Tablets                                                                                                       
+  Tablet |  | Tablets                                                                                                                 
+  Nest |  | Iot - Nest                                                                                                                
+  Apple Watch |  | Apple_Watch                                                                                                        
+  Linelink |  | Linelink                                                                                                              
+  Wearables |  | CR - L3 - Wearables Mention                                                                                          
+  Mobile Broadband-MI/Wearable/Coverage Device |  | Mobile Broadband-MI/Wearable/Coverage Device                                      
+  Garmin |  | GARMIN_GEN                                                                                                              
+68: Support [27]                                                                                                                      
+  Contact Us |  | Support / Contact                                                                                                   
+  Contact Us |  | Support / Contact                                                                                                   
+  Contact Us |  | Support / Contact                                                                                                   
+  Contact Us |  | Contact us                                                                                                          
+  Contact Us |  | support_contact                                                                                                     
+  Support - Online Community |  | Write Review                                                                                        
+  Support - Online Community |  | Support Community                                                                                   
+  Support - Online Community |  | Support - People                                                                                    
+  Support - Online Community |  | Support - Community                                                                                 
+  Support |  | TEL_SUPPORT                                                                                                            
+  Support |  | CR - L3 - Help Desk                                                                                                    
+  Support |  | Insert Messages                                                                                                        
+  Support |  | Support                                                                                                                
+  Outbound/Returned/Sched Calls |  | RETURN_CALL                                                                                      
+  Outbound/Returned/Sched Calls |  | CR - L3 - Outbound VM Messages                                                                   
+  Outbound/Returned/Sched Calls |  | Schedule Callback                                                                                
+  Errors & Error Support |  | Errors & Error Support                                                                                  
+  Errors & Error Support |  | Errors & Error Support                                                                                  
+  Errors & Error Support |  | Errors & Error Support                                                                                  
+  Support - Accessories |  | Support- Accessories                                                                                     
+  Support - Accessories |  | Support - Accessories                                                                                    
+  FAQ |  | FAQ                                                                                                                        
+  SIM Subsidy Unlock  |  | CR - L3 - SIM Subsidy Unlock Mentions                                                                      
+  Trouble Ticket / Service Request  |  | CR - L3 - Trouble Ticket.Service Request Mentions                                            
+  Accessibility |  | ACCESSIBILITY                                                                                                    
+  Voice |  | NT_TS_VOICE                                                                                                              
+  Help Desk |  | Help Desk                                                                                                            
+19: Connectivity/Coverage [22]                                                                                                        
+  Hotspot/Tethering/WiFi/Signal Boost |  | Mobile Hotspot                                                                             
+  Hotspot/Tethering/WiFi/Signal Boost |  | COVERAGE_DEVICE_TECH                                                                       
+  Hotspot/Tethering/WiFi/Signal Boost |  | COVERAGE_DEVICE_GEN                                                                        
+  Hotspot/Tethering/WiFi/Signal Boost |  | Hotspot / Tethering / WiFi / Signal Boost                                                  
+  Hotspot/Tethering/WiFi/Signal Boost |  | Hotspot/Tethering/WiFi/Signal Boost                                                        
+  Hotspot/Tethering/WiFi/Signal Boost |  | GEN_3G_STICK                                                                               
+  Hotspot/Tethering/WiFi/Signal Boost |  | CR - L3 - Mobile Hotspots Mention                                                          
+  Travel/International/Roaming |  | Travel/International/Roaming                                                                      
+  Travel/International/Roaming |  | INTL_ROAM_CALL                                                                                    
+  Travel/International/Roaming |  | ROAM_COVER                                                                                        
+  Travel/International/Roaming |  | ROAM_COVER_INT                                                                                    
+  Travel/International/Roaming |  | International Dialing/Roaming                                                                     
+  Travel/International/Roaming |  | Travel / International / Roaming                                                                  
+  Support - Coverage |  | Other Not Listed Network                                                                                    
+  Support - Coverage |  | Network OR Coverage                                                                                         
+  Signal |  | Signal                                                                                                                  
+  Signal |  | CR - L3 - Signal Related Mention                                                                                        
+  Network APN Speed & Coverage |  | Network APN Speed & Coverage                                                                      
+  Network APN Speed & Coverage |  | Network APN Speed & Coverage                                                                      
+  Coverage |  | Coverage                                                                                                              
+  Support - BlueTth/APN/Wifi |  | CR - L3 - Bluetooth/APN/WiFi Mentions                                                               
+  Outage |  | Outage                                                                                                                  
+62: Rate Plan Info/Support [21]                                                                                                       
+  Plans & Passes |  | Plans                                                                                                           
+  Plans & Passes |  | Plans                                                                                                           
+  Plans & Passes |  | Plans & Passes                                                                                                  
+  Plans & Passes |  | Plans                                                                                                           
+  Plans & Passes |  | Plans                                                                                                           
+  Rate Plan Info/Support |  | BILL_RATE_CHG                                                                                           
+  Rate Plan Info/Support |  | RATEPLAN_OVER                                                                                           
+  Rate Plan Info/Support |  | Rate Plan OR Plan Fit Analysis                                                                          
+  Rate Plan Info/Support |  | CR - L3 - Rate Plan Mentions                                                                            
+  T-Mobile ONE / One Plus |  | T_Mobile_ONE_Plus                                                                                      
+  T-Mobile ONE / One Plus |  | T_Mobile_ONE                                                                                           
+  T-Mobile ONE / One Plus |  | T_Mobile_ONE_Plus_International                                                                        
+  Military |  | Military                                                                                                              
+  Military |  | Military                                                                                                              
+  Military |  | Plan_for_Military_Veteran_families                                                                                    
+  Unlimited Talk & Text |  | Unlimited_Talk_Text_plan                                                                                 
+  Unlimited Talk & Text |  | Unlimited_Talk_Text_Data                                                                                 
+  55+ Offers |  | Offer_for_55_age                                                                                                    
+  Digital Rate Plan/ Services Review |  | cps                                                                                         
+  Buy Multiple Plans |  | Ability_to_buy_Multiple_plans                                                                               
+  No Credit Check |  | No_credit_check                                                                                                
+53: Payment Arrangement [19]                                                                                                          
+  Payment Arrangement |  | Payment Arrangement                                                                                        
+  Payment Arrangement |  | CR - L3 - PA Set Up Mentions                                                                               
+  Payment Arrangement |  | PAYMENT_ARR                                                                                                
+  Payment Arrangement |  | CR - L3 - PA Cancel.Change                                                                                 
+  Payment Arrangement |  | Payment Arrangement                                                                                        
+  Payment Arrangement |  | PMT_ARRANGE                                                                                                
+  Payment Arrangement |  | pa                                                                                                         
+  Payment Arrangement |  | PMT_ARRANGE_EXP                                                                                            
+  Payment Arrangement |  | Payment Arrangement                                                                                        
+  Payment Arrangement |  | PMT_ARRANGE_NEW                                                                                            
+  Payment Arrangement |  | Payment Arrangement                                                                                        
+  Payment Arrangement - Confirm |  | Payment Arrangement Confirmation                                                                 
+  Payment Arrangement - Confirm |  | pa_conf                                                                                          
+  Payment Arrangement - Confirm |  | Payment Arrangement Confirmation                                                                 
+  Payment Arrangement - Confirm |  | Payment Arrangement Confirmation                                                                 
+   | Pmt Arrangement Delete |                                                                                                         
+   | Pmt Arrangement Setup |                                                                                                          
+   | Pmt Arrangement Realized |                                                                                                       
+   | Pmt Arrangement Setup |                                                                                                          
+57: Promotions / Rebates / Acct Discounts [18]                                                                                        
+  Promotions |  | Promotions / Offers / Discounts                                                                                     
+  Promotions |  | Promotions / Offers / Discounts                                                                                     
+  Promotions |  | Promotions / Offers / Discounts                                                                                     
+  Promotions |  | PROMOTION                                                                                                           
+  Promotions |  | Offers and Promotions                                                                                               
+  Promotions |  | Promo Inquiry/Issue                                                                                                 
+  Rebates |  | REBATE_CARE                                                                                                            
+  Rebates |  | CR - L3 - Rebates Mentions                                                                                             
+  Rebates |  | Rebates                                                                                                                
+  Corporate Discount |  | MCSA                                                                                                        
+  Corporate Discount |  | CR - L3 - MCSA.Corporate Discount Mention                                                                   
+  Promotion Inquiry |  | CR - L3 - Promotions Mentions                                                                                
+  Kickback |  | Kickback                                                                                                              
+  Uncarrier Initiative (Non-Account)  |  | CR - L3 - Uncarrier Initiative (Non-Account) Mentions                                      
+  Uncarrier Initiative (Account)  |  | CR - L3 - Uncarrier Initiative (Account) Mentions                                              
+  Carrier Freedom |  | CR - L3 - Carrier Freedom Mention                                                                              
+  T-Mobile Advantage |  | T-Mobile Advantage                                                                                          
+  Government Business Schools |  | Government Business Schools                                                                        
+48: Payment [18]                                                                                                                      
+  Payment |  | WM_MAKE_PAYMENT                                                                                                        
+  Payment |  | Payment                                                                                                                
+  Payment |  | WM_HOTLINE_PMT                                                                                                         
+  Payment |  | HOTLINE_MADE_PMT                                                                                                       
+  Payment |  | One Time Payment                                                                                                       
+  Payment |  | MAKE_PMT                                                                                                               
+  Payment |  | Payments                                                                                                               
+  Payment |  | One Time Payment                                                                                                       
+  Payment |  | One Time Payment                                                                                                       
+  Payment |  | APPLE_PAY                                                                                                              
+  Payment |  | One Time Payment                                                                                                       
+  Payment - Confirm |  | One Time Payment Confirmation                                                                                
+  Payment - Confirm |  | One Time Payment Confirmation                                                                                
+  Payment - Confirm |  | otp_conf                                                                                                     
+  Payment - Confirm |  | One Time Payment Confirmation                                                                                
+   | Payment |                                                                                                                        
+  Manage Card / Bank |  | Manage Card / Bank                                                                                          
+  Payment Card Remove |  | PMT_CARD_REMOVE                                                                                            
+69: Suspend / Restore [16]                                                                                                            
+   | Subscription Restored - Involuntary |                                                                                            
+   | Subscription Suspended - Involuntary |                                                                                           
+   | BAN Suspended |                                                                                                                  
+   | Subscription Restored |                                                                                                          
+   | BAN Restored |                                                                                                                   
+   | Subscription Suspended |                                                                                                         
+   | MSISDN Restored |                                                                                                                
+  Restore |  | WM_REINSTATE                                                                                                           
+  Restore |  | CR - L3 - Restore From Suspend Mentions                                                                                
+  Restore |  | Restore                                                                                                                
+  Restore |  | REINSTATE                                                                                                              
+  Return/Suspension/Cancellation/Close |  | Return/Suspension/Cancellation/Close                                                      
+  Return/Suspension/Cancellation/Close |  | Return / Suspension / Cancellation / Close                                                
+  Suspend/Restore |  | Suspend OR Restore Service                                                                                     
+  Restore Fee  |  | CR - L3 - Restore Fee Mentions                                                                                    
+  Suspend |  | WM_SUSPEND_SERVICE                                                                                                     
+56: Prepaid [15]                                                                                                                      
+  Prepaid |  | CR - L3 - Prepaid Mentions                                                                                             
+  Prepaid |  | Prepaid Entry                                                                                                          
+  Prepaid |  | prepaid_entry                                                                                                          
+  Prepaid |  | Prepaid Gifting                                                                                                        
+  Prepaid |  | Prepaid Other                                                                                                          
+  Prepaid |  | PREPAY                                                                                                                 
+  Prepaid |  | prepaid_gifting                                                                                                        
+  Prepaid |  | Prepaid                                                                                                                
+  Prepaid |  | Prepaid                                                                                                                
+  Prepaid |  | Prepaid                                                                                                                
+  Prepaid |  | prepaid_others                                                                                                         
+  Manage Payments - Prepaid |  | prepaid_manage_payments                                                                              
+  Manage Payments - Prepaid |  | Prepaid Manage Payments                                                                              
+  Prepaid Tourist Plan |  | Prepaid_Tourist_plan_support                                                                              
+  Pay as you go |  | Pay_as_you_go                                                                                                    
+55: Porting/Portability [15]                                                                                                          
+  BYOD/Porting/Switch/Tfr |  | BYOD/Porting/Switch/Tfr                                                                                
+  BYOD/Porting/Switch/Tfr |  | BYOD_checker                                                                                           
+  BYOD/Porting/Switch/Tfr |  | Port In                                                                                                
+  BYOD/Porting/Switch/Tfr |  | Talk_Chat_with_professional_about_pricing_via_VIP_or_Savings_tool_aka_Switcher                         
+  BYOD/Porting/Switch/Tfr |  | BYOD / Porting / Switch / Tfr                                                                          
+  Number Portability |  | WLNP_MOVE_NUM                                                                                               
+  Number Portability |  | WLNP                                                                                                        
+  Number Portability |  | WM_WLNP                                                                                                     
+  Number Portability |  | WLNP_STATUS                                                                                                 
+  Port In |  | Port-in Confirmation / Status                                                                                          
+  Port In |  | 2018_ATT_Port_In                                                                                                       
+  Port Validation |  | CR - L3 - Port Validation Mentions                                                                             
+  Device Unlock other Carrier Phone |  | How_to_unlock_my_other_carrier_phone                                                         
+  Switcher Tool Benefits/Savings |  | Get_Benefits_Savings__from_Switcher_tool                                                        
+  Port |  | CR - L3 - Port Mentions - Low Reliability                                                                                 
+3: Activate / Migration [15]                                                                                                          
+  Activation Info/Support |  | TMOACTIVATE_GC                                                                                         
+  Activation Info/Support |  | Activation Postpaid                                                                                    
+  Activation Info/Support |  | ACTIVATIONS                                                                                            
+  Activation Info/Support |  | TMOACTIVATE_TS                                                                                         
+  Activation Info/Support |  | Future_dated_activation                                                                                
+  Activation Info/Support |  | TEL_PR_MASS_MEDIA                                                                                      
+  Activation Info/Support |  | TEL_NEWSERVICE                                                                                         
+  Activation Info/Support |  | Account Activation                                                                                     
+   | BAN ReOpened |                                                                                                                   
+   | BAN Opening Activity - Not Active |                                                                                              
+   | New BAN |                                                                                                                        
+  Migration Prepaid to Postpaid |  | Migration Prepaid to Postpaid                                                                    
+  Migration Metro to Prepaid |  | Migration Metro to Prepaid                                                                          
+  Migration Postpaid to Prepaid |  | Migration Postpaid to Prepaid                                                                    
+  Migration Metro to Postpaid |  | Migration Metro to Postpaid                                                                        
+33: EIP/Lease [13]                                                                                                                    
+  EIP |  | Equipment Installment Plan / JOD                                                                                           
+  EIP |  | Equipment Installment Plan / JOD                                                                                           
+  EIP |  | EIP_Equipment_Installment_Plan                                                                                             
+  EIP |  | Equipment Installment Plan / JOD                                                                                           
+  EIP |  | EIP                                                                                                                        
+  EIP |  | EIP_GENERAL                                                                                                                
+  EIP |  | Equipment Installment Plan / JOD                                                                                           
+  EIP |  | EIP Balance/Inquiry                                                                                                        
+  EIP - Confirm |  | Equipment Installment Plan Confirmation                                                                          
+  EIP - Confirm |  | Equipment Installment Plan Confirmation                                                                          
+  EIP - Confirm |  | eip_conf                                                                                                         
+  EIP - Confirm |  | Equipment Installment Plan Confirmation                                                                          
+  JOD Lease End Inquiry |  | LEASE_END                                                                                                
+10: AutoPay [13]                                                                                                                      
+  AutoPay |  | autopay                                                                                                                
+  AutoPay |  | autopay                                                                                                                
+  AutoPay |  | EASY_PAY_SETUP                                                                                                         
+  AutoPay |  | autopay                                                                                                                
+  AutoPay |  | Payments - Autopay                                                                                                     
+  AutoPay Confirmation |  | autopay_conf                                                                                              
+  AutoPay Confirmation |  | AutoPay Confirmation                                                                                      
+  AutoPay Confirmation |  | AutoPay Confirmation                                                                                      
+  AutoPay Confirmation |  | AutoPay Confirmation                                                                                      
+  AutoPay Info/Support |  | FLEX_INFO                                                                                                 
+  AutoPay Info/Support |  | WM_AUTOPAY_SETUP                                                                                          
+  AutoPay Info/Support |  | CR - L3 - AutoPay                                                                                         
+   | Payment Event |                                                                                                                  
+70: Suspend / Restore - Voluntary [13]                                                                                                
+  Suspend/Restore - Voluntary |  | Lost or Stolen Device                                                                              
+  Suspend/Restore - Voluntary |  | Device Lost Suspend Restore                                                                        
+  Suspend/Restore - Voluntary |  | Device Lost Suspend Restore                                                                        
+  Suspend/Restore - Voluntary |  | Device Lost Suspend Restore                                                                        
+  Suspend/Restore - Voluntary |  | Device Lost Suspend Restore                                                                        
+  Suspend/Restore - Voluntary |  | device_lost_suspend_restore                                                                        
+  Device Lost Suspend Restore Confirmation |  | device_lost_suspend_restore_conf                                                      
+  Device Lost Suspend Restore Confirmation |  | Device Lost Suspend Restore Confirmation                                              
+  Device Lost Suspend Restore Confirmation |  | Device Lost Suspend Restore Confirmation                                              
+  Device Lost Suspend Restore Confirmation |  | Device Lost Suspend Restore Confirmation                                              
+  Suspend - Voluntary |  | VOL_SUSPEND                                                                                                
+  Suspend - Voluntary |  | CR - L3 - Voluntary Suspend Mentions                                                                       
+  Restore - Voluntary |  | RESUME_CANCEL                                                                                              
+27: Device insurance [11]                                                                                                             
+  Device insurance |  | EQP_ASSURANT                                                                                                  
+  Device insurance |  | HANDSET_INS                                                                                                   
+  Device insurance |  | Phone Protection Solutions/Claims                                                                             
+  Device insurance |  | Device Protection and Jump                                                                                    
+  Device insurance |  | EQP_ASURION                                                                                                   
+  Device insurance |  | CR - L3 - JUMP or PHP Mentions                                                                                
+  Device insurance |  | Device_protection                                                                                             
+  Device insurance |  | APPLE_CARE                                                                                                    
+  Device insurance |  | Phone Protection Solutions                                                                                    
+  Device insurance |  | CR - L3 - Insurance Claim Mentions                                                                            
+  Device insurance - TVision |  | CCSA - Layer3 - Assurance/Recap                                                                     
+42: Manage PWD/PIN [11]                                                                                                               
+  Account PIN/Pwd |  | account_registration_login_password_issues                                                                     
+  Account PIN/Pwd |  | CR - L3 - Device Unlock.PW.PIN.PUK Mentions                                                                    
+  Account PIN/Pwd |  | VM_PW_RESET                                                                                                    
+  Account PIN/Pwd |  | CHANGE_ACCOUNT_PIN                                                                                             
+  Account PIN/Pwd |  | CR - L3 - Account PIN/Password Mentions                                                                        
+  Account PIN/Pwd |  | Unlock/Lock/PIN/Password                                                                                       
+  Account PIN/Pwd |  | Account Registration / Login / Password Issues                                                                 
+  Account PIN/Pwd |  | Account Registration / Login / Password Issues                                                                 
+  Account PIN/Pwd |  | Account Registration / Login / Password Issues                                                                 
+   | Password / PIN |                                                                                                                 
+  Unlock / Lock / PIN / Password |  | Unlock / Lock / PIN / Password                                                                  
+9: Apps or Website [10]                                                                                                               
+  Apps/App Mgmt/Downloads |  | Apps / App Mgmt / Downloads                                                                            
+  Apps/App Mgmt/Downloads |  | TMO Apps                                                                                               
+  Apps/App Mgmt/Downloads |  | Apps/App Mgmt/Downloads                                                                                
+  Apps/App Mgmt/Downloads |  | Apps / App Mgmt / Downloads                                                                            
+  Support - Digital Navigation |  | Website Navigation                                                                                
+  Support - Digital Navigation |  | CR - L3 - T-Mobile.com Mentions                                                                   
+  Support - Digital Navigation |  | Web/App/IVR Navigation                                                                            
+  T-Mobile.com Misc |  | T-Mobile.com Misc                                                                                            
+  Apps - TMO or 3rd Party |  | CR - L3 - App Mentions                                                                                 
+  Login - Setup or Activity |  | Login - Setup or Activity                                                                            
+46: Other Products / TMO Tuesdays [10]                                                                                                
+  T-Mobile Money |  | T-Mobile Money                                                                                                  
+  T-Mobile Money |  | T-Mobile Money                                                                                                  
+  T-Mobile Money |  | MOBILE_MONEY                                                                                                    
+  T-Mobile Money |  | T-Mobile Money                                                                                                  
+  TMO Tuesdays |  | TMO_TUESDAYS_TIER1                                                                                                
+  TMO Tuesdays |  | T-Mobile Tuesdays                                                                                                 
+  TMO Tuesdays |  | TMO_TUESDAYS_TIER2                                                                                                
+  Digits |  | Digits                                                                                                                  
+  Digits |  | CR - L3 - DIGITS Mentions                                                                                               
+  Digits |  | DIGITS_SUPPORT                                                                                                          
+7: Add a person / device (line) [9]                                                                                                   
+   | Changed BAN |                                                                                                                    
+   | New Subscriber |                                                                                                                 
+   | Subscription Opening Activity - Not Active |                                                                                     
+   | Subscription intraday Act/Deact |                                                                                                
+   | Subscription ReOpened |                                                                                                          
+  Add a line - Conf Pg / Retail |  | aal_conf                                                                                         
+  Add a line - Conf Pg / Retail |  | Add a Line Confirmation                                                                          
+  Add a line - Conf Pg / Retail |  | AAL Conf                                                                                         
+  Add a line - Conf Pg / Retail |  | Activation Postpaid - AAL                                                                        
+72: Usage [8]                                                                                                                         
+  Usage Review |  | Usage Review                                                                                                      
+  Usage Review |  | Usage Review                                                                                                      
+  Usage Review |  | CALL_DETAIL                                                                                                       
+  Usage Review |  | Usage Review                                                                                                      
+  Usage Review |  | Usage Review                                                                                                      
+  Usage Review |  | MINUTES                                                                                                           
+  Digital Usage Review |  | usage_review                                                                                              
+  Digital Usage Review |  | usage                                                                                                     
+29: Device Unlock [8]                                                                                                                 
+  Device Unlock |  | device_unlock                                                                                                    
+  Device Unlock |  | UNLOCK_DEVICE                                                                                                    
+  Device Unlock |  | Device Unlock                                                                                                    
+  Device Unlock |  | Device Unlock                                                                                                    
+  Device Unlock |  | Unlock Device                                                                                                    
+  Device Unlock |  | UNLOCK_OVER                                                                                                      
+  Device Unlock |  | Device Unlock                                                                                                    
+  TMO Device Unlock App |  | T_Mobile_Device_Unlock_app                                                                               
+35: Fees / Credits / Waivers [7]                                                                                                      
+  Late Fee |  | Late Fee                                                                                                              
+  Late Fee |  | CR - L3 - Late Fee Mention                                                                                            
+  Non-return Fee |  | CR - L3 - Non Return Fee Mentions                                                                               
+  Fees & Waivers |  | CR - L3 - Waiver Mentions - Low Reliability                                                                     
+  Restocking Fee |  | CR - L3 - Restocking Fee Mention                                                                                
+  Credit for poor experience |  | Customer_credits_for_poor_experience                                                                
+  Activation Fee |  | Activation_Fee                                                                                                  
+8: Add a person / device Info/Support [7]                                                                                             
+  Add a person / device Info/Support |  | CR - L3 - Activation/AAL Mentions - Low Reliability                                         
+  Add a person / device Info/Support |  | Add a Line                                                                                  
+  Add a person / device Info/Support |  | WM_ADDALINE                                                                                 
+  Add a person / device Info/Support |  | Add a Line                                                                                  
+  Add a person / device Info/Support |  | aal                                                                                         
+  Add a person / device Info/Support |  | Add a Line                                                                                  
+  Add a person / device Info/Support |  | REQ_ADD_LINE                                                                                
+21: Data [6]                                                                                                                          
+  Data - Basic |  | B_DATA_PIC                                                                                                        
+  Data - Basic |  | B_DATA_DLOAD                                                                                                      
+  Complex Data Card |  | C_DATA_CARD                                                                                                  
+  Complex Data Card |  | C_DATA_FAX                                                                                                   
+  Support - Data |  | CR - L3 - Backing Up Data Mentions                                                                              
+  Support - Data |  | CR - L3 - Data Connection Mention                                                                               
+77: Device / Equip/ Network Issues [6]                                                                                                
+  Device Hardware Issues |  | CR - L3 - Crashing/Freezing/Rebooting                                                                   
+  Device Hardware Issues |  | Device Hardware Issues                                                                                  
+  Device Hardware Issues |  | CR - L3 - Battery/Power/Device Overheating Mentions                                                     
+  Device /Equip Troubleshoot |  | WM_DEVICE_ISSUE                                                                                     
+  Device /Equip Troubleshoot |  | HANDSET_TROUB                                                                                       
+   | Low Network Score |                                                                                                              
+26: Device / Equipment - TVision [6]                                                                                                  
+  Display Issues - TVision |  | L3CR - L3 - Display Issues v2                                                                         
+  Support - Home Network - TVision |  | L3CR - L3 - Home Network Troubleshooting Mentions                                             
+  DVR - TVision |  | L3CR - L3 - DVR/Recording                                                                                        
+  Connecting Box/Equipment - TVision |  | L3CR - L3 - Connecting Box/Equipment                                                        
+  Support - TVision |  | L3CR - L3 - Troubleshooting Mentions                                                                         
+  Support - Tech Appt - TVision |  | L3CR - L3 - Tech Appointment                                                                     
+40: Information - TVision [5]                                                                                                         
+  TV Error Message - TVision |  | L3CR - L3 - Transfer Mentions                                                                       
+  TV Error Message - TVision |  | L3CR - L3 - Error Message                                                                           
+  Channels - TVision |  | L3CR - L3 - Specific Channels                                                                               
+  TVision - Inquiry |  | Cable TV Inquiry (Layer3)                                                                                    
+  Competitor - TVision |  | L3CR - L3 - Competitor Mentions                                                                           
+78: Chg of Responsibility / Auth User [5]                                                                                             
+  Chg of Responsibility / Auth User |  | COR                                                                                          
+  Chg of Responsibility / Auth User |  | CR - L3 - Authorized User Mention                                                            
+  Chg of Responsibility / Auth User |  | CR - L3 - COR Mention                                                                        
+   | Primary Acct Holder Change |                                                                                                     
+   | Change of Resp / Auth User |                                                                                                     
+2: Accessories [5]                                                                                                                    
+  Accessories |  | Accessories                                                                                                        
+  Accessories |  | HANDSET_ACCESS                                                                                                     
+  Accessories |  | CR - L3 - Accessories Purchase mentions                                                                            
+  Accessories |  | CR - L3 - Accessory Mentions                                                                                       
+   | Accessory Purchase |                                                                                                             
+61: Rate Plan Change [5]                                                                                                              
+  Rate Plan Change |  | Change Plan Confirmation                                                                                      
+  Rate Plan Change |  | Rate Plan Change                                                                                              
+  Rate Plan Change |  | Change Plan Confirmation                                                                                      
+  Rate Plan Change |  | Change Rate Plan                                                                                              
+   | Change Plan |                                                                                                                    
+6: Activate / Migration Info/Support - TVision [5]                                                                                    
+  Buyers Remorse Inquiry - TVision |  | L3CR - L3 - 14-Day Guarantee Mentions                                                         
+  Pricing - TVision |  | L3CR - L3 - Pricing                                                                                          
+  Set up Instructions - TVision |  | L3CR - L3 - Set up Instructions                                                                  
+  New Service Inquiry - TVision |  | L3CR - L3 - New Service Inquiry                                                                  
+  Pro Install Set Up  - TVision |  | L3CR - L3 - Pro Install Set Up Mentions                                                          
+17: Churn - person / device (line) [5]                                                                                                
+   | Subscr Left BAN & MSISDN |                                                                                                       
+   | MSISDN & Subscr Left BAN |                                                                                                       
+   | Subscriber Left |                                                                                                                
+   | Subscription Cancelled |                                                                                                         
+   | Subscription Cancelled - Involuntary |                                                                                           
+32: Digital Views [4]                                                                                                                 
+  Home Page Visit |  | home                                                                                                           
+  Home Page Visit |  | home                                                                                                           
+  Home Page Visit |  | home                                                                                                           
+  Home Page Visit |  | home                                                                                                           
+4: Activate / Migration - TVision [4]                                                                                                 
+  Self-Install Set Up - TVision |  | L3CR - L3 - Self-Install Set Up Mentions v2                                                      
+  Activation - TVision |  | L3CR - L3 - Activations Mentions                                                                          
+   | Join TVision |                                                                                                                   
+  Onboarding - TVision |  | L3CR - L3 - New Customer Onboarding                                                                       
+51: Payment - Prepaid [4]                                                                                                             
+  Payment - Prepaid |  | prepaid_refill1                                                                                              
+  Payment - Prepaid |  | Prepaid Refill                                                                                               
+  Payment - Prepaid |  | Prepaid Refill                                                                                               
+  Payment - Prepaid |  | prepaid_refill                                                                                               
+20: Connectivity/Coverage - TVision [4]                                                                                               
+  Outage - TVision |  | L3CR - L3 - Outage                                                                                            
+  Support - Coverage - TVision |  | L3CR - L3 – Signal Service Mentions                                                               
+  Internet Speed - TVision |  | L3CR - L3 - Internet Speed                                                                            
+  Internet Service - TVision |  | L3CR - L3 - Internet Service                                                                        
+52: Payment - TVision [4]                                                                                                             
+  Pre Authorization  - TVision |  | L3CR - L3 - Pre Authorization mentions                                                            
+  Pay in Advance - TVision |  | L3CR - L3 - Pay in Advance Mentions                                                                   
+  Payment  - TVision |  | L3CR - L3 - Payment Mentions                                                                                
+  Autopay or CC Declines - TVision |  | L3CR - L3 - Autopay                                                                           
+30: Device/Equipmt - Return/Exchg [4]                                                                                                 
+  Device Exchange |  | HANDSET_EXCH                                                                                                   
+  Device Exchange |  | Device Exchange                                                                                                
+  Return Device |  | Return Device                                                                                                    
+  Return Device |  | CR - L3 - Return Device Mentions                                                                                 
+34: Escalation or Complaint [4]                                                                                                       
+  Escalation or Complaint |  | CR - L3 - Complaint Mentions                                                                           
+  Escalation or Complaint |  | CR - L3 - Supervisor Mention                                                                           
+  Escalation or Complaint |  | SUPER_RQST                                                                                             
+  Escalation or Complaint |  | Escalation or Complaint                                                                                
+75: Activation - Prepaid Info/Support [4]                                                                                             
+  Activation - Prepaid Info/Support |  | Activation Prepaid                                                                           
+  Activation - Prepaid Info/Support |  | Prepaid Activation                                                                           
+  Activation - Prepaid Info/Support |  | prepaid_activation                                                                           
+  Activation - Prepaid Info/Support |  | PREPAY_ACT                                                                                   
+63: Retention [4]                                                                                                                     
+  Cancel Acct/Service |  | WM_CANCEL_SERVICE                                                                                          
+  Cancel Acct/Service |  | CANCEL_ACCT                                                                                                
+  Retention |  | RETENTION                                                                                                            
+  Retention - TVision |  | CCSA - Layer3 Save Offer Mentions                                                                          
+87: N_LS_LV_Acct [4]                                                                                                                  
+  N_LS_LV_Acct | NA | N_LS_LV_Acct                                                                                                    
+  N_LS_LV_Tech | NA | N_LS_LV_Tech                                                                                                    
+  N_LS_LV_Acct_FGENT | NA | N_LS_LV_Acct_FGENT                                                                                        
+  N_LS_PCM_VIRTUAL | NA | N_LS_PCM_VIRTUAL                                                                                            
+71: Suspend/Restore - Involuntary [3]                                                                                                 
+  Suspend/Restore - Involuntary |  | CR - L3 - Involuntary Suspend Mentions                                                           
+  Write Off |  | WRITEOFF                                                                                                             
+  Payment to Restore - Involuntary |  | HOTLINE_PMT_RECEIPT                                                                           
+47: Past Due [3]                                                                                                                      
+   | Past Due Stmt |                                                                                                                  
+  Past Due Pmt |  | WM_PASTDUE_PMT                                                                                                    
+  Past Due No Pmt |  | WM_PASTDUE_NO_PMT                                                                                              
+5: Activate / Migration Info/Support [3]                                                                                              
+  New Customer |  | NEW_CUSTOMER                                                                                                      
+  Onboarding |  | Onboarding                                                                                                          
+  Steps to Setup |  | Steps_to_setup                                                                                                  
+74: Warranty Exchange Info/Support [3]                                                                                                
+  Warranty |  | Warranty & Guarantee                                                                                                  
+  Warranty |  | WARRANTY_CARE                                                                                                         
+  Warranty Exchange  |  | CR - L3 - Warranty Exchange Mentions                                                                        
+59: Prospect [2]                                                                                                                      
+  Non Customer |  | L_NON_CUSTOMER                                                                                                    
+  Non Customer |  | NON_CUSTOMER                                                                                                      
+11: AutoPay - Prepaid [2]                                                                                                             
+  AutoPay - Prepaid |  | prepaid_autoPay                                                                                              
+  AutoPay - Prepaid |  | Prepaid AutoPay                                                                                              
+49: Payment - Info/Support [2]                                                                                                        
+  Payment - Info/Support |  | otp                                                                                                     
+  Payment - Info/Support |  | CR - L3 - Making a Payment Mentions                                                                     
+23: Device / Equip - Software Update [2]                                                                                              
+  Support - Software/Update |  | Device Software Issues                                                                               
+  Support - Software/Update |  | CR - L3 - Device Software Mentions                                                                   
+37: Fraud [2]                                                                                                                         
+  Fraud |  | CR - L3 - Fraud Complaint Mentions                                                                                       
+  Fraud |  | Fraud                                                                                                                    
+16: Churn - Account [2]                                                                                                               
+   | BAN Closed |                                                                                                                     
+   | BAN Cancelled |                                                                                                                  
+83: One Time Payment [1]                                                                                                              
+   | One Time Payment |                                                                                                               
+73: Warranty Exchange [1]                                                                                                             
+   | Warranty Exchange |                                                                                                              
+65: Services / Features [1]                                                                                                           
+   | Change Service |                                                                                                                 
+36: Fees / Credits / Waivers - TVision [1]                                                                                            
+  Credits and Adjustments - TVision |  | L3CR - L3 - Credits and Adjustments                                                          
+45: Other Devices / IoT - Support [1]                                                                                                 
+  Hotspot/Tethering/WiFi/Signal Boost-Support |  | TMO_HS_TIER1                                                                       
+15: Change Package/Hardware - TVision [1]                                                                                             
+  Upgrade and Downgrade - TVision |  | L3CR - L3 - Upgrade and Downgrade Mentions                                                     
+64: Retention - TVision [1]                                                                                                           
+  Service Disconnections - TVision |  | L3CR - L3 - Disconnect Mentions                                                               
+67: Services / Features Info/Support - TVision [1]                                                                                    
+  TV Everywhere - TVision |  | L3CR - L3 - TV Everywhere                                                                              
+24: Device / Equip - Software Update - TVision [1]                                                                                    
+  Support - Software/Update - TVision |  | L3CR - L3 - Software Update                                                                
+81: Churn TVision [1]                                                                                                                 
+   | Churn TVision |                                                                                                                  
+18: Churn - Person/Line - Info/Support [1]                                                                                            
+  Churn - Subscriber - Info/Support |  | CR - L3 - Cancellation Mentions                                                              
+80: Collection Hold [1]                                                                                                               
+   | Collection Hold |                                                                                                                
+82: Manage TVision [1]                                                                                                                
+   | Manage TVision |                                                                                                                 
+31: Device/Equipmt - Return/Exchg - TVision [1]                                                                                       
+  Return Equipment - TVision  |  | L3CR - L3 - Return Equipment Mentions v2                                                           
+14: Billing - TVision [1]                                                                                                             
+  Billing - TVision |  | L3CR - L3 - Billing Mentions                                                                                 
+38: Geographic Relocation [1]                                                                                                         
+   | Geographic Relocation |                                                                                                          
+58: Promotions / Rebates / Acct Discounts - TVision [1]                                                                               
+  Promotion  - TVision |  | L3CR - L3 - Promotion Mentions                                                                            
+43: Manage PWD/PIN - TVision [1]                                                                                                      
+  Account PIN/Pwd - TVision |  | L3CR - L3 - Password Set Up/Reset/Change Mentions                                                    
+90: Activate / Migration [1]                                                                                                          
+  Activate / Migration | NA | Activate / Migration                                                                                    
+98: device-details [1]                                                                                                                
+  device-details | NA | device-details                                                                                                
+89: R_PROJECT10M [1]                                                                                                                  
+  R_PROJECT10M | NA | R_PROJECT10M                                                                                                    
+85: HOTLINE_SB [1]                                                                                                                    
+  HOTLINE_SB | NA | HOTLINE_SB                                                                                                        
+97: potential-customer [1]                                                                                                            
+  potential-customer | NA | potential-customer                                                                                        
+93: waitlist-sign-up [1]                                                                                                              
+  waitlist-sign-up | NA | waitlist-sign-up                                                                                            
+92: home-internet [1]                                                                                                                 
+  home-internet | NA | home-internet                                                                                                  
+86: M_PROJECT10M [1]                                                                                                                  
+  M_PROJECT10M | NA | M_PROJECT10M                                                                                                    
+96: check-device [1]                                                                                                                  
+  check-device | NA | check-device                                                                                                    
+100: streaming [1]                                                                                                                    
+  streaming | NA | streaming                                                                                                          
+102: homepage [1]                                                                                                                     
+  homepage | NA | homepage                                                                                                            
+101: one-time-payment [1]                                                                                                             
+  one-time-payment | NA | one-time-payment                                                                                            
+91: account-profile [1]                                                                                                               
+  account-profile | NA | account-profile                                                                                              
+99: device-payment [1]                                                                                                                
+  device-payment | NA | device-payment                                                                                                
+95: device-status [1]                                                                                                                 
+  device-status | NA | device-status                                                                                                  
+94: order-status [1]                                                                                                                  
+  order-status | NA | order-status                                                                                                    
+88: R_BUS_VERIFY [1]                                                                                                                  
+  R_BUS_VERIFY | NA | R_BUS_VERIFY                                                                                                    
+84: DIALPAD [1]                                                                                                                       
+  DIALPAD | NA | DIALPAD                                                                                                              
